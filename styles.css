@@ -1,0 +1,23 @@
+img {
+  width: 250px;
+height: 250px;
+}
+
+* {
+  margin-left: 10px;
+  margin-right: 10px;
+  margin-top: 25px;
+  padding: 5;
+  box-sizing: border-box;
+}
+
+h1 {
+  color: red
+  background-color: #FAC8CD
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
